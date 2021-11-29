@@ -4,8 +4,17 @@ Ze woonden samen in een bos.
 De boze tovenaar kwam de prinses tegen en toen..
 gingen ze samen een taart bakken.
 De boze tovenaar stikte in de aangekoekte taart en ging dood.
+<<<<<<< HEAD
 De prinses probeerde de tovenaar nog te reanimeren.
 Het was echter te laat.
 
 Het tijdstip van overlijden was 14:44.
 Het lijk werd naar het mortuarium gebracht.
+=======
+toen kwam Sinterklaar en deze schoot de kerstman dood.
+
+Iedereen was blij dat ze verlost waren van de boze tovenaar. Behalve de mooie prinses. Zij moest heel hard huilen,
+omdat ze zelf geen taarten kan bakken.
+
+De prinses ging dood vanwege haar verdriet en honger naar taarten
+>>>>>>> d51e6738845bbf5fdb2421981e88d6d513facb0c
